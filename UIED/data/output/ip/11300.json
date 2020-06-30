@@ -1,0 +1,166 @@
+{
+    "compos": [
+        {
+            "height": 15,
+            "column_min": 25,
+            "row_min": 18,
+            "row_max": 33,
+            "width": 73,
+            "column_max": 98,
+            "category": null
+        },
+        {
+            "height": 15,
+            "column_min": 168,
+            "row_min": 18,
+            "row_max": 33,
+            "width": 32,
+            "column_max": 200,
+            "category": null
+        },
+        {
+            "height": 15,
+            "column_min": 266,
+            "row_min": 18,
+            "row_max": 33,
+            "width": 84,
+            "column_max": 350,
+            "category": null
+        },
+        {
+            "height": 15,
+            "column_min": 410,
+            "row_min": 18,
+            "row_max": 33,
+            "width": 43,
+            "column_max": 453,
+            "category": null
+        },
+        {
+            "height": 195,
+            "column_min": 0,
+            "row_min": 44,
+            "row_max": 239,
+            "width": 492,
+            "column_max": 492,
+            "category": null
+        },
+        {
+            "height": 26,
+            "column_min": 180,
+            "row_min": 274,
+            "row_max": 300,
+            "width": 133,
+            "column_max": 313,
+            "category": null
+        },
+        {
+            "height": 175,
+            "column_min": 6,
+            "row_min": 322,
+            "row_max": 497,
+            "width": 238,
+            "column_max": 244,
+            "category": null
+        },
+        {
+            "height": 175,
+            "column_min": 248,
+            "row_min": 322,
+            "row_max": 497,
+            "width": 238,
+            "column_max": 486,
+            "category": null
+        },
+        {
+            "height": 26,
+            "column_min": 141,
+            "row_min": 512,
+            "row_max": 538,
+            "width": 100,
+            "column_max": 241,
+            "category": null
+        },
+        {
+            "height": 24,
+            "column_min": 383,
+            "row_min": 514,
+            "row_max": 538,
+            "width": 100,
+            "column_max": 483,
+            "category": null
+        },
+        {
+            "height": 15,
+            "column_min": 10,
+            "row_min": 519,
+            "row_max": 534,
+            "width": 33,
+            "column_max": 43,
+            "category": null
+        },
+        {
+            "height": 16,
+            "column_min": 252,
+            "row_min": 518,
+            "row_max": 534,
+            "width": 32,
+            "column_max": 284,
+            "category": null
+        },
+        {
+            "height": 176,
+            "column_min": 6,
+            "row_min": 553,
+            "row_max": 729,
+            "width": 238,
+            "column_max": 244,
+            "category": null
+        },
+        {
+            "height": 176,
+            "column_min": 248,
+            "row_min": 553,
+            "row_max": 729,
+            "width": 238,
+            "column_max": 486,
+            "category": null
+        },
+        {
+            "height": 23,
+            "column_min": 109,
+            "row_min": 746,
+            "row_max": 769,
+            "width": 28,
+            "column_max": 137,
+            "category": null
+        },
+        {
+            "height": 25,
+            "column_min": 356,
+            "row_min": 744,
+            "row_max": 769,
+            "width": 27,
+            "column_max": 383,
+            "category": null
+        },
+        {
+            "height": 15,
+            "column_min": 94,
+            "row_min": 776,
+            "row_max": 791,
+            "width": 55,
+            "column_max": 149,
+            "category": null
+        },
+        {
+            "height": 15,
+            "column_min": 343,
+            "row_min": 776,
+            "row_max": 791,
+            "width": 55,
+            "column_max": 398,
+            "category": null
+        }
+    ]
+}

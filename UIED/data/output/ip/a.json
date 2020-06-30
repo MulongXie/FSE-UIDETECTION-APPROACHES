@@ -1,0 +1,238 @@
+{
+    "compos": [
+        {
+            "category": "ImageView",
+            "row_min": 491,
+            "column_min": 455,
+            "column_max": 503,
+            "width": 48,
+            "row_max": 515,
+            "height": 24
+        },
+        {
+            "category": "TextView",
+            "row_min": 491,
+            "column_min": 513,
+            "column_max": 605,
+            "width": 92,
+            "row_max": 521,
+            "height": 30
+        },
+        {
+            "category": "ImageView",
+            "row_min": 547,
+            "column_min": 430,
+            "column_max": 671,
+            "width": 241,
+            "row_max": 798,
+            "height": 251
+        },
+        {
+            "category": "ImageView",
+            "row_min": 547,
+            "column_min": 679,
+            "column_max": 919,
+            "width": 240,
+            "row_max": 798,
+            "height": 251
+        },
+        {
+            "category": "ImageView",
+            "row_min": 547,
+            "column_min": 927,
+            "column_max": 1168,
+            "width": 241,
+            "row_max": 798,
+            "height": 251
+        },
+        {
+            "category": "ImageView",
+            "row_min": 738,
+            "column_min": 751,
+            "column_max": 763,
+            "width": 12,
+            "row_max": 748,
+            "height": 10
+        },
+        {
+            "category": "ImageView",
+            "row_min": 124,
+            "column_min": 413,
+            "column_max": 1184,
+            "width": 771,
+            "row_max": 799,
+            "height": 675
+        },
+        {
+            "category": "ImageView",
+            "row_min": 141,
+            "column_min": 1064,
+            "column_max": 1086,
+            "width": 22,
+            "row_max": 163,
+            "height": 22
+        },
+        {
+            "category": "ImageView",
+            "row_min": 141,
+            "column_min": 1102,
+            "column_max": 1124,
+            "width": 22,
+            "row_max": 163,
+            "height": 22
+        },
+        {
+            "category": "ImageView",
+            "row_min": 141,
+            "column_min": 1135,
+            "column_max": 1162,
+            "width": 27,
+            "row_max": 162,
+            "height": 21
+        },
+        {
+            "category": "ImageButton",
+            "row_min": 216,
+            "column_min": 1023,
+            "column_max": 1062,
+            "width": 39,
+            "row_max": 254,
+            "height": 38
+        },
+        {
+            "category": "ImageView",
+            "row_min": 218,
+            "column_min": 1127,
+            "column_max": 1136,
+            "width": 9,
+            "row_max": 228,
+            "height": 10
+        },
+        {
+            "category": "ImageView",
+            "row_min": 223,
+            "column_min": 460,
+            "column_max": 498,
+            "width": 38,
+            "row_max": 228,
+            "height": 5
+        },
+        {
+            "category": "ImageView",
+            "row_min": 233,
+            "column_min": 460,
+            "column_max": 498,
+            "width": 38,
+            "row_max": 238,
+            "height": 5
+        },
+        {
+            "category": "ImageView",
+            "row_min": 231,
+            "column_min": 1127,
+            "column_max": 1136,
+            "width": 9,
+            "row_max": 240,
+            "height": 9
+        },
+        {
+            "category": "ImageView",
+            "row_min": 243,
+            "column_min": 460,
+            "column_max": 498,
+            "width": 38,
+            "row_max": 249,
+            "height": 6
+        },
+        {
+            "category": "ImageView",
+            "row_min": 244,
+            "column_min": 1127,
+            "column_max": 1136,
+            "width": 9,
+            "row_max": 253,
+            "height": 9
+        },
+        {
+            "category": "ImageView",
+            "row_min": 359,
+            "column_min": 571,
+            "column_max": 606,
+            "width": 35,
+            "row_max": 396,
+            "height": 37
+        },
+        {
+            "category": "ImageView",
+            "row_min": 358,
+            "column_min": 653,
+            "column_max": 662,
+            "width": 9,
+            "row_max": 396,
+            "height": 38
+        },
+        {
+            "category": "ImageButton",
+            "row_min": 358,
+            "column_min": 719,
+            "column_max": 748,
+            "width": 29,
+            "row_max": 397,
+            "height": 39
+        },
+        {
+            "category": "ImageView",
+            "row_min": 357,
+            "column_min": 750,
+            "column_max": 774,
+            "width": 24,
+            "row_max": 396,
+            "height": 39
+        },
+        {
+            "category": "ImageView",
+            "row_min": 367,
+            "column_min": 583,
+            "column_max": 594,
+            "width": 11,
+            "row_max": 384,
+            "height": 17
+        },
+        {
+            "category": "ImageView",
+            "row_min": 368,
+            "column_min": 606,
+            "column_max": 632,
+            "width": 26,
+            "row_max": 397,
+            "height": 29
+        },
+        {
+            "category": "ImageView",
+            "row_min": 368,
+            "column_min": 634,
+            "column_max": 651,
+            "width": 17,
+            "row_max": 396,
+            "height": 28
+        },
+        {
+            "category": "ImageButton",
+            "row_min": 368,
+            "column_min": 666,
+            "column_max": 690,
+            "width": 24,
+            "row_max": 397,
+            "height": 29
+        },
+        {
+            "category": "ImageView",
+            "row_min": 368,
+            "column_min": 778,
+            "column_max": 805,
+            "width": 27,
+            "row_max": 397,
+            "height": 29
+        }
+    ]
+}
