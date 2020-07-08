@@ -4,7 +4,6 @@ from random import randint as rint
 import time
 
 import lib_ip.ip_preprocessing as pre
-import lib_ip.ip_detection_utils as util
 import lib_ip.ip_detection as det
 import lib_ip.ip_draw as draw
 import lib_ip.ip_segment as seg
@@ -86,8 +85,11 @@ def block_division(grey, org,
                 if block.height < 30:
                     continue
 
-                if block.area / (row * column) > 0.8:
+                # print(block.area / (row * column))
+                if block.area / (row * column) > 0.9:
                     continue
+                elif block.area / (row * column) > 0.7:
+                    block.redundant = True
 
                 # get the boundary of this region
                 # ignore lines
